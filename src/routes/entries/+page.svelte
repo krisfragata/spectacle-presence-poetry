@@ -2,6 +2,7 @@
 	import Christian from "./Christian.svelte";
 import Furniture from "./furniture.svelte";
    import arrowLeft from '../../assets/arrow-left.svg'
+	import Todo from "./todo.svelte";
     
 </script>
 
@@ -10,5 +11,6 @@ import Furniture from "./furniture.svelte";
         <img src={arrowLeft} alt="arrow-left"/>
     </a>
         <Furniture/>
+        <Todo/>
     <Christian/>
 </main>
