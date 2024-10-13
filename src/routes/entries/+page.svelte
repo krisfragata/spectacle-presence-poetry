@@ -3,6 +3,7 @@
 import Furniture from "./furniture.svelte";
    import arrowLeft from '../../assets/arrow-left.svg'
 	import Todo from "./todo.svelte";
+	import BirthdayOctober from "./BirthdayOctober.svelte";
     
 </script>
 
@@ -12,5 +13,6 @@ import Furniture from "./furniture.svelte";
     </a>
         <Furniture/>
         <Todo/>
+        <BirthdayOctober/>
     <Christian/>
 </main>
