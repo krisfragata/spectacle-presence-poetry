@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  font-family: 'Krub', sans-serif;
+}
+
+h1 {
+  font-family: 'Kumar One', serif ;
+}
+
+.lobster{
+    font-family: 'Lobster', serif;
+}
